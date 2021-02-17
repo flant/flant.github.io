@@ -16,7 +16,7 @@ Surely, **we are always happy to see your issues & PRs**!
 
 Other useful links include:
 
-*   [our technical blog](https://medium.com/flant-com) is where we share our DevOps adventures dealing with Kubernetes and other great tools;
+*   [our technical blog](https://blog.flant.com/) is where we share our DevOps adventures dealing with Kubernetes and other great tools;
 *   [@flant_com](https://twitter.com/flant_com) is our Twitter to stay informed.
 
 Thank you for your time and let’s make Open Source even better together!
