@@ -1,11 +1,12 @@
 # We are Flant
 
-Being around since 2008, [Flant](https://flant.com/company/about-us) is a Kubernetes Certified Service Provider that offers [DevOps-as-a-Service](https://flant.com/services/devops-as-a-service) and [Managed Kubernetes](https://flant.com/services/managed-kubernetes-as-a-service).
+Being around since 2008, [Flant](https://flant.com/company/about-us) is a Kubernetes Certified Service Provider that offers [DevOps-as-a-Service](https://flant.com/services/devops-as-a-service) and [Managed Kubernetes](https://flant.com/services/managed-kubernetes-as-a-service) (based on our own K8s platform).
 
 **Open Source is our strong passion** and fundament that powers the company from its inception. That’s why we’re extremely happy to share our own Open Source solutions with a wider DevOps/Kubernetes community.
 
 Here are the most noticeable projects created in Flant and available on GitHub:
 
+*   [**Deckhouse**](https://github.com/deckhouse/deckhouse) _(moved to a separate GitHub organization)_ — a fully-featured, NoOps Kubernetes platform that works everywhere.
 *   [**werf**](https://github.com/werf/werf) _(moved to a separate GitHub organization)_ — a powerful CI/CD tool to glue Git, Docker, container registry, your existing CI system, Helm and Kubernetes.
 *   [**shell-operator**](https://github.com/flant/shell-operator) — a handy tool to easily create your Kubernetes operator using scripts (Bash, Python, etc.) or any binaries;
 *   [**addon-operator**](https://github.com/flant/addon-operator) — an older brother of shell-operator extending its features with Helm charts that makes it a mighty system to manage additional components in your Kubernetes clusters in a consistent & automated way;
